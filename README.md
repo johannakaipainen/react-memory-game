@@ -1,3 +1,5 @@
+--- This project was developed according to a tutorial by the Net Ninja ---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
